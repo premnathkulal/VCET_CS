@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ihome"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/inotes"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="Notes" />
+        <item
+            android:id="@+id/iqpapers"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Quetion papers" />
+        <item
+            android:id="@+id/islideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/ichat"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="Discuss bench" />
+        <item
+            android:id="@+id/ielinks"
+            android:icon="@drawable/ic_link_black_24dp"
+            android:title="Activities" />
+    </group>
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/iupload"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Upload" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Logout" />
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="exit" />
+        </menu>
+    </item>
+
+</menu>

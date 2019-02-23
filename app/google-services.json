@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127585359461",
+    "firebase_url": "https://vcschat.firebaseio.com",
+    "project_id": "vcschat",
+    "storage_bucket": "vcschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127585359461:android:21d7a27306f6c958",
+        "android_client_info": {
+          "package_name": "com.example.vcet_cs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127585359461-cvfmgsj3dbb99bavnm4kd19ct6uc6g0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vcet_cs",
+            "certificate_hash": "f0c4286ced3447a5f572726a180ba76d36393117"
+          }
+        },
+        {
+          "client_id": "127585359461-gkdt6jpv7dh9014utmk9a8jiiueebm7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bgMiplLM1X0zWwjHnaZ0IgOX2J12Y3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127585359461-gkdt6jpv7dh9014utmk9a8jiiueebm7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
